@@ -4,3 +4,4 @@ printing current working directory
 3-listfiles list files in long format
 4-listmorefiles to list hidden files in long format
 5-listfilesdigitonly contains script to list user id and group id numerically
+6-firstdirectory creates a directory inside a directory
