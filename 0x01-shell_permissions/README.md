@@ -10,3 +10,4 @@
 9-John_Doe gives specific permission
 10-mirror_permissions sets mode of hello tothat of olleh
 11-directories_permissions gives only directories permission
+12-directory_permissions makes a directory and assigns permission
