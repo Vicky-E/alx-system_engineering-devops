@@ -9,3 +9,4 @@
 8-James_Bond gives only others permission
 9-John_Doe gives specific permission
 10-mirror_permissions sets mode of hello tothat of olleh
+11-directories_permissions gives only directories permission
