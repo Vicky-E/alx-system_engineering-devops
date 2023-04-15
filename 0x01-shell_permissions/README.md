@@ -6,3 +6,4 @@
 5-execute gives owner execute permission
 6-multiple_permissions gives multiple permission
 7-everybody gives execute permission
+8-James_Bond gives only others permission
