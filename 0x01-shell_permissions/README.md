@@ -3,3 +3,4 @@
 2-groups prints groups user is part of
 3-new_owner changes file owner
 4-empty creates an empty file
+5-execute gives owner execute permission
