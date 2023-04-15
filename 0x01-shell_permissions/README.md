@@ -7,3 +7,4 @@
 6-multiple_permissions gives multiple permission
 7-everybody gives execute permission
 8-James_Bond gives only others permission
+9-John_Doe gives specific permission
