@@ -5,3 +5,4 @@
 4-lastlines displays last 10 lines of a file
 5-firstlines displays first 10 lines of a file
 6-third_line displays a specific line of text
+7-file contains a nonempty file
