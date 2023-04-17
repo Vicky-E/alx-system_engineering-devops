@@ -6,3 +6,4 @@
 5-firstlines displays first 10 lines of a file
 6-third_line displays a specific line of text
 7-file contains a nonempty file
+8-cwd_state feeds the output of a command to a file
