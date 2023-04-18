@@ -12,3 +12,4 @@
 11-directories counts directories
 12-newest_files lists filesfrom newest to oldest
 13-unique prints only words that are unique
+14-findthatword finds a specific word
