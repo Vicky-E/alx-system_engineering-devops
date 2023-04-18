@@ -20,3 +20,4 @@
 19-AZ replaces two letters
 20-hiago deletes specific letters
 21-reverse reverses input
+22-users_and_homes lists users and home directories
