@@ -19,3 +19,4 @@
 18-letteronly prints all lines starting with a letter
 19-AZ replaces two letters
 20-hiago deletes specific letters
+21-reverse reverses input
