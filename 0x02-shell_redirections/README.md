@@ -14,3 +14,4 @@
 13-unique prints only words that are unique
 14-findthatword finds a specific word
 15-countthatword counts number of lines a word appears in
+16-whatsnext prints 3 lines after matching word
