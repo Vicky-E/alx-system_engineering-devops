@@ -11,3 +11,4 @@
 10-no_more_js deletes all .js file
 11-directories counts directories
 12-newest_files lists filesfrom newest to oldest
+13-unique prints only words that are unique
