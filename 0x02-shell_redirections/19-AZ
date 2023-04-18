@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'replace' | tr ' Ac' 'Ze'
+echo 'replace all characters' | tr ' Ac' 'Ze'
