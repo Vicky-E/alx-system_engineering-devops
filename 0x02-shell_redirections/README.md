@@ -17,3 +17,4 @@
 16-whatsnext prints 3 lines after matching word
 17-hidethisword prints only lines that do not match
 18-letteronly prints all lines starting with a letter
+19-AZ replaces two letters
