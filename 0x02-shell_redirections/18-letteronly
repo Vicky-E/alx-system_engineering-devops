@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "^$str" /etc/ssh/sshd_config
+grep -ia "^$str" /etc/ssh/sshd_config
