@@ -3,3 +3,4 @@
 2-path adds directory to path
 3-paths counts directory paths
 4-global_variables prints environment variables
+5-local_variables prints allvariables
