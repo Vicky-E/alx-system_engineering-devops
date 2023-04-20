@@ -11,3 +11,4 @@
 10-love_exponent_breath raised powe by love
 11-binary_to_decimal converts binary to decimal
 12-combinations combines 2 letters
+13-print_float addds 2 decimal place to NUM
