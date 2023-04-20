@@ -10,3 +10,4 @@
 9-divide_and_rule divides
 10-love_exponent_breath raised powe by love
 11-binary_to_decimal converts binary to decimal
+12-combinations combines 2 letters
