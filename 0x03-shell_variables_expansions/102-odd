@@ -1,2 +1,2 @@
 #!/bin/bash
-if (NR % 2 == 1) {echo}
+echo (NR % 2 == 1)
