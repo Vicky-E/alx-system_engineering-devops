@@ -1,0 +1,2 @@
+#!/bin/bash
+gawk 'NR%2==1 {print}
