@@ -1,2 +1,2 @@
 #!/bin/bash
-printf ("NR % 2 == 1")
+for (NR % 2 == 1) {echo}}
