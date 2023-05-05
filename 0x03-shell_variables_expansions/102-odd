@@ -1,2 +1,2 @@
 #!/bin/bash
-gawk 'NR%2==1 {print}
+if ((NR%2) == 1) {print}
