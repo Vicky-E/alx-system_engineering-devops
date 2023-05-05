@@ -1,2 +1,2 @@
 #!/bin/bash
-if ((NR%2) == 1) {print}
+echo NR%2==1
