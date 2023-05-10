@@ -1,2 +1,2 @@
 #!/bin/bash
-for (NR % 2 == 1) {echo}}
+echo ls -1
