@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d chmod -R a+x
+sudo chmod -R a+x
